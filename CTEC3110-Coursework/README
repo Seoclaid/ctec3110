@@ -1,0 +1,8 @@
+The project was started on 26/10/2019
+Core bulk of the application was organised by both Sakshi and Sophie; this was the database design and site structure.
+Split of responsibilities is:
+                            Sakshi: SMSLogger, to learn and implement,
+                                    Organise and manage database and submissions as well as documentation.
+                            Sophie: Create authentication method as well as site structure and ensure security of the site,
+                                    Organise and manage database,
+                                    Implement xdebug.
